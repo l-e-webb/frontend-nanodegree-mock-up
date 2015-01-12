@@ -49,9 +49,10 @@ h2 {
     }
 }
 
+/* Used for testing purposes.  Uncomment this and corresponding <div> at the bottom of index.html to see an overlay of the mock-up.
 .mockup-overlay {
        top: 0;
        position: absolute;
        z-index: 10;
-       opacity: 0;
-}
+       opacity: 0.5;
+} */
